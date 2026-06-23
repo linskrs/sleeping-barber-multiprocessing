@@ -1,4 +1,4 @@
-# 💈 O Problema da Barbearia Soneca (Sleeping Barber Problem)
+# 💈 O Problema da Barbearia
 
 Este repositório contém uma implementação robusta e concorrente do clássico problema de sincronização de processos proposto por Edsger Dijkstra, desenvolvido como trabalho prático para a disciplina de **Sistemas Distribuídos**.
 
