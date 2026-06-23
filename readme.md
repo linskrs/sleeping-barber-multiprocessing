@@ -44,4 +44,4 @@ O programa divide-se em funções limpas e de responsabilidades isoladas:
 1. Clone o repositório ou baixe o arquivo fonte.
 2. Abra o terminal na pasta do arquivo e digite:
    ```bash
-   python barbeiro_dorminhoco.py
+   python sleeping_barber.py
